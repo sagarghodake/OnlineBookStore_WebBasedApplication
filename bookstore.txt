@@ -1,0 +1,76 @@
+In Bookstore Core Project 
+There are 4 Moudules
+1.Book
+	The component which we want to sell through the website.
+	we perform some operation on like 
+	add New book;
+	update existing book
+	delete out-dated book
+	get all the books 
+	get book by Id
+	etc...
+	
+	
+2. Customer 
+	Customer is one of the user of our website which purches the book online.
+	here also perform some operation 
+	1.Register (Add Customer)
+	2.Edit profile (update Customer)
+	3.delete profile (delete Customer) 
+	4.show all profile(show all customer)
+	5.show profiles by id(show  customer)
+	6.show profiles by emailId(show all customer)
+	
+	
+3.Cart
+	To maintain the customers purches iteam we cart 
+	1.add to Cart ( add book into cart
+	2.update book quantity 
+	3.remove book from cart.
+	4.show Cart.
+	etc...
+	
+4.Order 
+	if my cart ready with all required iteams we can place order
+	1.placeorder 
+	2.show all order (list of all orders for Admin)
+	3.show my order ( list of all orders for customer)
+	4.cancel order
+	
+
+Database Collection of Data in form of Tables.
+
+MySQL - it one of the vendor which provides the data 
+to Store the Data. in form of rows and columns.  
+
+
+
+
+
+
+
+
+	
+	HTML 2 days
+	CSS  2 days
+	JavaScript 4days
+	JQuery  4 days
+	Servlet  3days
+	JSP( HMTL + JAVA) 3days
+	JSTL(jsp Standard Tag Lib) 2days
+	AJAX 1days
+	JSON 1days
+	Design Pattern 1days
+	Project implement 5 days
+
+
+
+
+
+
+
+
+
+	
+
+
