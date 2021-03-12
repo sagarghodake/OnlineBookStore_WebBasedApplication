@@ -49,28 +49,6 @@ to Store the Data. in form of rows and columns.
 
 
 
-
-	
-	HTML 2 days
-	CSS  2 days
-	JavaScript 4days
-	JQuery  4 days
-	Servlet  3days
-	JSP( HMTL + JAVA) 3days
-	JSTL(jsp Standard Tag Lib) 2days
-	AJAX 1days
-	JSON 1days
-	Design Pattern 1days
-	Project implement 5 days
-
-
-
-
-
-
-
-
-
 	
 
 
